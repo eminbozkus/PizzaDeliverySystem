@@ -1,0 +1,13 @@
+* Please Choose a Pizza Base:
+1: Classic = 20.00 TL
+2: Margherita = 22.00 TL
+3: TurkPizza = 25.00 TL
+4: PlainPizza = 30.00 TL
+* and sauce of your choice:
+11: Olives = 3.0 TL
+12: Mushrooms = 4.0 TL
+13: GoatCheese = 5.0 TL
+14: Meat = 7.0 TL
+15: Onions =  2.0 TL
+16: Corn = 3.5 TL
+* Thank you!
